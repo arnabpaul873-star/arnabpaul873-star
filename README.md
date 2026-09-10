@@ -45,12 +45,6 @@ Neonate Technologies LLP.
 
 **Power Pivot • Pivot Tables • Data Modelling • KPI Design • Data Visualization**
 
-### Web Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -152,8 +146,11 @@ Data → Machine Learning → Analytics → Software Applications
   </a>
 </p>
 
----
+<a href="tel:+918240473070">
+    <img src="https://img.shields.io/badge/Phone-8240473070-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
 
-### 💡 Turning Data Into Decisions. Building Solutions With Code.
+---
 
 ⭐ Thanks for visiting my profile!
