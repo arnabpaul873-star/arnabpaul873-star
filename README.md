@@ -36,7 +36,6 @@ Neonate Technologies LLP.
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge&logo=optuna&logoColor=white)
 
@@ -45,6 +44,12 @@ Neonate Technologies LLP.
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Power Pivot • Pivot Tables • Data Modelling • KPI Design • Data Visualization**
+
+### Web Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools
 
@@ -60,7 +65,7 @@ Neonate Technologies LLP.
 End-to-end Graph Neural Network pipeline for node classification
 on a Facebook Page–Page network.
 
-**GCN vs GAT**
+**Results**
 - 22,470 nodes
 - 171,002 edges
 - GAT: 80.0% accuracy
@@ -87,7 +92,7 @@ diabetes risk prediction using a Scikit-learn pipeline.
 Analytics dashboard designed to identify payment, delivery,
 revenue and operational performance issues.
 
-**Key findings**
+**Key Findings**
 - 41% payment success rate
 - 43% delivery success rate
 - Identified operational and revenue diversification opportunities
@@ -101,7 +106,7 @@ revenue and operational performance issues.
 Interactive analytics solution using relational data modelling
 to analyze hospital operations and financial performance.
 
-**Key insights**
+**Key Insights**
 - 25% pending payment rate
 - Revenue concentration across 3 departments
 - KPI analysis across admissions, treatments and billing
@@ -119,21 +124,29 @@ Data Analytics
 SQL
 Application Development
 Production-ready Software
+📚 Learning & Growth
 
-## 🤝 Let's Connect
+I'm currently expanding beyond data and machine learning into
+practical application development and software engineering.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnab-paul-927930253">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+My goal is to become a well-rounded technology professional who
+can work across:
 
-  <a href="mailto:arnabpaul873@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Data → Machine Learning → Analytics → Software Applications
 
----
-
-### 💡 Turning Data Into Decisions. Building Solutions With Code.
+🤝 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/arnab-paul-927930253"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:arnabpaul873@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+💡 Turning Data Into Decisions. Building Solutions With Code.
 
 ⭐ Thanks for visiting my profile!
+
+
+### One important thing
+
+**Do not add GitHub stats, contribution graphs, animated GIFs, visitor counters, or 15 different badges yet.** Your current profile should communicate:
+
+**Data → ML → Analytics → Applications**
+
+That's a much stronger professional identity for your current experience.
+
+Once you paste this and commit it, **send me the profile screenshot**. Then we'll start **Part 2 — Name, 
