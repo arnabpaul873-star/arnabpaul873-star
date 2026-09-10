@@ -49,7 +49,7 @@ Neonate Technologies LLP.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools
 
@@ -124,7 +124,11 @@ Data Analytics
 SQL
 Application Development
 Production-ready Software
-📚 Learning & Growth
+```
+
+---
+
+## 📚 Learning & Growth
 
 I'm currently expanding beyond data and machine learning into
 practical application development and software engineering.
@@ -134,19 +138,22 @@ can work across:
 
 Data → Machine Learning → Analytics → Software Applications
 
-🤝 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/arnab-paul-927930253"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:arnabpaul873@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-💡 Turning Data Into Decisions. Building Solutions With Code.
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arnab-paul-927930253">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:arnabpaul873@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Turning Data Into Decisions. Building Solutions With Code.
 
 ⭐ Thanks for visiting my profile!
-
-
-### One important thing
-
-**Do not add GitHub stats, contribution graphs, animated GIFs, visitor counters, or 15 different badges yet.** Your current profile should communicate:
-
-**Data → ML → Analytics → Applications**
-
-That's a much stronger professional identity for your current experience.
-
-Once you paste this and commit it, **send me the profile screenshot**. Then we'll start **Part 2 — Name, 
