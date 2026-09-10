@@ -140,16 +140,11 @@ Data → Machine Learning → Analytics → Software Applications
   <a href="https://www.linkedin.com/in/arnab-paul-927930253">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:arnabpaul873@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
-<a href="tel:+918240473070">
-    <img src="https://img.shields.io/badge/Phone-8240473070-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-</p>
+**Email:** [arnabpaul873@gmail.com](mailto:arnabpaul873@gmail.com)
+
+**Phone:** [8240473070](tel:+918240473070)
 
 ---
 
